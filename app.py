@@ -4,7 +4,7 @@ import pandas as pd
 
 
 app = Flask(__name__)
-model = joblib.load('model/house_price_model.pkl')
+model = joblib.load('model/houseTrain.pkl')
 
 
 @app.route('/', methods=['GET', 'POST'])

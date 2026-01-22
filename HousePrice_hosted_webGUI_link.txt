@@ -2,5 +2,5 @@ Name: Bethel Oluseun-Adu
 Matric Number: 22CD032186
 Machine Learning Algorithm Used: Random Forest Regressor
 Model Persistence Method: Joblib
-Live URL: 
+Live URL: https://houseprice-project-bethel-22cd032186-2.onrender.com
 GitHub Repository: https://github.com/BethelOluseun-Adu/HousePrice_Project_Bethel_22CD032186
